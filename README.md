@@ -10,4 +10,4 @@ All case study's requirements and resources are available on the challenge websi
 - Case Study #5 - Data Mart
 - Case Study #6 - Clique Bait
 - Case Study #7 - Balanced Tree Clothing Co.
-- Case Study #8 - Fresh Segments (#Case Study #8 - Fresh Segments)
+- Case Study #8 - Fresh Segments
