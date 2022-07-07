@@ -128,3 +128,5 @@ and year(b.start_date) =2019
 )
 select * from temp;
 select * from foodie_fi.plans;
+
+-- C. Challenge Payment Question
